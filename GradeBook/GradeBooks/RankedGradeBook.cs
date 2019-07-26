@@ -28,7 +28,6 @@ namespace GradeBook.GradeBooks
                 return 'D';
             else
                 return 'F';
-            return base.GetLetterGrade(averageGrade);
         }
     }
 }
